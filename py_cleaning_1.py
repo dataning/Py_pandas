@@ -6,7 +6,7 @@ python
 
 import pandas as pd
 import os
-import timet
+import timeit
 
 # Show the current directory
 os.getcwd()
