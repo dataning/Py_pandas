@@ -249,3 +249,6 @@ nls97sas.columns = nls97sas.columns.\
 nls97sas.head()
 nls97sas.keysex_symbol_1997.value_counts()
 nls97sas.set_index('pubid__yth_id_code_1997', inplace=True)
+
+
+important
